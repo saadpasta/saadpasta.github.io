@@ -2,7 +2,6 @@
 
 .header {
   max-width: 1600px;
-  width: 100%;
   padding: 20px 10px;
   margin: 0px auto;
 }
@@ -31,8 +30,8 @@
   display: block;
   float: left;
   font-size: 2em;
-  padding: 10px 20px;
   text-decoration: none;
+  margin-top: 10px;
 }
 
 /* menu */
@@ -115,12 +114,12 @@
   .header li {
     float: left;
   }
-  .header li a {
-    padding: 20px 30px;
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
   .header .menu {
-    clear: none;
-    float: right;
     max-height: none;
   }
   .header .menu-icon {
