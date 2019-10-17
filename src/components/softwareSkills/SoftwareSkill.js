@@ -40,10 +40,10 @@ export default function SoftwareSkill() {
             <i className="fas fa-fire"></i>
           </li>
           <li className="software-skill-inline" name="python">
-            <i class="fab fa-python"></i>
+            <i className="fab fa-python"></i>
           </li>
           <li className="software-skill-inline" name="docker">
-            <i class="fab fa-docker"></i>
+            <i className="fab fa-docker"></i>
           </li>
         </ul>
       </div>
