@@ -2,6 +2,8 @@
   padding-left: 0;
   list-style: none;
   font-size: 3rem;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 .software-skill-inline {
@@ -11,5 +13,9 @@
 }
 
 .software-skill-inline > i {
-    color: #868e96;
+  color: #868e96;
+}
+
+.software-skill-inline > i:hover {
+  color: #645beb;
 }
