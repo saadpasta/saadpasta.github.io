@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import Header from "../components/header/Header";
-import Greeting from "../components/greeting/Greeting";
-import Skills from "../components/skills/Skills";
+import Greeting from "./greeting/Greeting";
+import Skills from "./skills/Skills";
 import Projects from "./projects/Projects";
+import StartupProject from "./StartupProjects/StartupProject";
 
 export default class Main extends Component {
   render() {
@@ -12,6 +13,7 @@ export default class Main extends Component {
         <Greeting />
         <Skills />
         <Projects />
+        <StartupProject />
       </div>
     );
   }

@@ -1,6 +1,6 @@
 import React from "react";
 import "./Greeting.css";
-import SocialMedia from "../socialMedia/SocialMedia";
+import SocialMedia from "../../components/socialMedia/SocialMedia";
 
 export default function Greeting() {
   return (
