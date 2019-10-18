@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import ApolloClient from "apollo-boost";
 import { gql } from "apollo-boost";
 import "./Project.css";
-import GithubRepoCard from "../githubRepoCard/GithubRepoCard";
+import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
 
 export default function Projects() {
   const [repo, setrepo] = useState([]);
