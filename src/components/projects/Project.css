@@ -16,6 +16,9 @@
   padding: 2rem;
   cursor: pointer;
 }
+.repo-card-div:hover{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
+}
 
 .repo-stats {
   display: flex;
@@ -70,4 +73,12 @@
 
 .repo-star-svg {
   margin-right: 0.3rem;
+}
+
+/* Media Query */
+@media (max-width: 768px) {
+  .project-title {
+    font-size: 30px;
+    text-align: center;
+  }
 }
