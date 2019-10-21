@@ -3,7 +3,8 @@ import Header from "../components/header/Header";
 import Greeting from "./greeting/Greeting";
 import Skills from "./skills/Skills";
 import Projects from "./projects/Projects";
-import StartupProject from "./StartupProjects/StartupProject";
+import StartupProject from "./startupProjects/StartupProject";
+import Achievement from "./achievement/Achievement";
 
 export default class Main extends Component {
   render() {
@@ -14,6 +15,7 @@ export default class Main extends Component {
         <Skills />
         <Projects />
         <StartupProject />
+        <Achievement />
       </div>
     );
   }
