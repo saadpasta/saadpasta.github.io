@@ -19,7 +19,7 @@ export default function Achievement() {
               <p className="card-subtitle">First Pakistani to be selected as Google Google-in Finalist from 4000 students from 77 diffrent countries</p>
             </div>
             <div className="certificate-card-footer">
-              <p>Certificate</p>
+              <p>Certification</p>
               <p>Award Letter</p>
               <p>Google Code-in Blog</p>
             </div>
@@ -32,6 +32,9 @@ export default function Achievement() {
               <h5 className="card-title">Google Assistant Action</h5>
               <p className="card-subtitle">Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.</p>
             </div>
+            <div className="certificate-card-footer">
+              <p>View Google Assistant Action</p>
+            </div>
           </div>
 
           <div className="certificate-card">
@@ -41,6 +44,10 @@ export default function Achievement() {
             <div className="certificate-detail-div">
               <h5 className="card-title">PWA Web App Developer</h5>
               <p className="card-subtitle">Completed Certifcation from SMIT for PWA Web App Development.</p>
+            </div>
+            <div className="certificate-card-footer">
+              <p>Certification</p>
+              <p>Final Project</p>
             </div>
           </div>
         </div>
