@@ -5,6 +5,7 @@ import Skills from "./skills/Skills";
 import Projects from "./projects/Projects";
 import StartupProject from "./startupProjects/StartupProject";
 import Achievement from "./achievement/Achievement";
+import Blogs from "./blogs/Blogs";
 
 export default class Main extends Component {
   render() {
@@ -16,6 +17,7 @@ export default class Main extends Component {
         <Projects />
         <StartupProject />
         <Achievement />
+        <Blogs />
       </div>
     );
   }
