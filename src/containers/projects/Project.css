@@ -9,8 +9,6 @@
   gap: 1rem 1rem;
 }
 
-
-
 /* Media Query */
 @media (max-width: 768px) {
   .project-title {

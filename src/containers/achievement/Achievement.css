@@ -1,7 +1,62 @@
 .achievement-heading {
   font-size: 56px;
   font-weight: 400;
+  line-height: normal;
+  margin: 0px
 }
 .achievement-subtitle {
-    text-transform: uppercase
+  text-transform: uppercase;
+  margin: 0px;
+  margin-bottom: 50px;
+}
+.card-image {
+  width: 250px;
+  height: 250px;
+}
+
+.card-title {
+  color: black;
+  font-size: 30px;
+  margin: 0px;
+}
+
+.card-subtitle {
+  color: #868e96;
+  font-size: 20px;
+}
+
+.certificate-card {
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
+  padding: 1.5rem;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+}
+
+.certificate-detail-div {
+  text-align: center;
+}
+
+.certificate-card:hover {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
+}
+.certificate-image-div {
+  text-align: center;
+}
+.achievement-cards-div {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 1rem 1rem;
+}
+/* Media Query */
+@media (max-width: 768px) {
+  .achievement-heading {
+    font-size: 30px;
+    text-align: center;
+  }
+  .achievement-subtitle {
+    font-size: 16px;
+    line-height: normal;
+    text-align: center;
+  }
 }
