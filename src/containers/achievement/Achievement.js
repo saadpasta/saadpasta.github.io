@@ -1,5 +1,6 @@
 import React from "react";
 import "./Achievement.css";
+import AchivementCard from "../../components/achievementCard/AchivementCard";
 
 export default function Achievement() {
   function openUrlInNewTab(url) {
@@ -28,6 +29,7 @@ export default function Achievement() {
               <p onClick={() => openUrlInNewTab("https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html")}>Google Code-in Blog</p>
             </div>
           </div>
+
           <div className="certificate-card">
             <div className="certificate-image-div">
               <img src={require("../../assests/images/googleAssistant.svg")} alt="Google Asssistant" className="card-image"></img>
@@ -54,6 +56,19 @@ export default function Achievement() {
               <p onClick={() => openUrlInNewTab("https://pakistan-olx-1.firebaseapp.com/")}>Final Project</p>
             </div>
           </div>
+
+          <AchivementCard
+            cardInfo={{
+              title: "Google Code-In Finalist",
+              description: "First Pakistani to be selected as Google Google-in Finalist from 4000 students from 77 diffrent countries",
+              image: "codeInLogo.png",
+              footer: [
+                { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
+                { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
+                { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+              ]
+            }}
+          />
         </div>
       </div>
     </div>

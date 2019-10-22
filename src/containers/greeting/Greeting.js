@@ -10,7 +10,7 @@ export default function Greeting() {
           <div>
             <h1 className="greeting-text">Hi all I'm Saad</h1>
             <p className="greeting-text-p subTitle">
-              A passionate Full Stack Software Developer 🚀  having an experience of building web applications with React / Node / React Native and much more.
+              A passionate Full Stack Software Developer 🚀 having an experience of building web applications with React / Node / React Native and much more.
             </p>
             <p className="greeting-text-p subTitle">First Pakistani Google Code-in Finalist.</p>
             <SocialMedia />
