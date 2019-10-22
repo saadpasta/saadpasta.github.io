@@ -11,6 +11,7 @@
 }
 .card-image {
   height: 250px;
+  width: 250px;
 }
 
 .card-title {
@@ -46,7 +47,7 @@
 }
 .achievement-cards-div {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1rem 1rem;
 }
 .certificate-card-footer {
