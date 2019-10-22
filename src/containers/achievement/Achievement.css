@@ -10,7 +10,6 @@
   margin-bottom: 50px;
 }
 .card-image {
-  width: 250px;
   height: 250px;
 }
 
@@ -18,6 +17,8 @@
   color: black;
   font-size: 30px;
   margin: 0px;
+  font-weight: 400;
+  line-height: normal;
 }
 
 .card-subtitle {
