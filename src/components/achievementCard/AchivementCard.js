@@ -7,7 +7,7 @@ export default function AchivementCard({ cardInfo }) {
   }
 
   return (
-    <div>
+
       <div className="certificate-card">
         <div className="certificate-image-div">
           <img src={require(`../../assests/images/${cardInfo.image}`)} alt="PWA" className="card-image"></img>
@@ -22,6 +22,5 @@ export default function AchivementCard({ cardInfo }) {
           })}
         </div>
       </div>
-    </div>
   );
 }
