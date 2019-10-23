@@ -8,11 +8,11 @@ export default function Greeting() {
       <div className="greeting-main">
         <div className="greeting-text-div">
           <div>
-            <h1 className="greeting-text">Hi all I'm Saad</h1>
+            <h1 className="greeting-text">Hi all 👋 I'm Saad</h1>
             <p className="greeting-text-p subTitle">
-              A passionate Full Stack Software Developer 🚀 having an experience of building web applications with React / Node / React Native and much more.
+              A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some
+              other cool libraries and frameworks .
             </p>
-            <p className="greeting-text-p subTitle">First Pakistani Google Code-in Finalist.</p>
             <SocialMedia />
           </div>
         </div>
