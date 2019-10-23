@@ -2,6 +2,13 @@
   max-width: 1600px;
   padding: 20px 10px;
   margin: 0px auto;
+  margin-top: 4rem;
+}
+
+.gretting-main {
+  max-width: 1600px;
+  padding: 20px 10px;
+  margin: 0px auto;
 }
 
 .greeting-main {

@@ -4,7 +4,7 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 
 export default function Greeting() {
   return (
-    <div className="main">
+    <div className="gretting-main">
       <div className="greeting-main">
         <div className="greeting-text-div">
           <div>
