@@ -7,6 +7,7 @@ import StartupProject from "./startupProjects/StartupProject";
 import Achievement from "./achievement/Achievement";
 import Blogs from "./blogs/Blogs";
 import Contact from "./contact/Contact";
+import Footer from "../components/footer/Footer";
 
 export default class Main extends Component {
   render() {
@@ -20,6 +21,7 @@ export default class Main extends Component {
         <Achievement />
         <Blogs />
         <Contact />
+        <Footer />
       </div>
     );
   }
