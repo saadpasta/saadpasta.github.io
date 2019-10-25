@@ -1,15 +1,17 @@
 .main-button {
   background-color: #55198b;
   color: white;
+  font-weight: 700;
   width: max-content;
-  padding: 15px 20px;
+  padding: 13px 22px;
   margin-right: 50px;
+  text-transform: uppercase;
   border-radius: 10px;
   text-align: center;
   text-decoration: none;
   display: block;
   margin-top: 20px;
-  font-size: 19px;
+  font-size: 16px;
   cursor: pointer;
 }
 /* Media Query */

@@ -16,8 +16,8 @@ export default function Greeting() {
             </p>
             <SocialMedia />
             <div className="button-greeting-div">
-              <Button text="CONTACT ME" />
-              <Button text="SEE MY RESUME" />
+              <Button text="Contact me" />
+              <Button text="See my resume" />
             </div>
           </div>
         </div>
