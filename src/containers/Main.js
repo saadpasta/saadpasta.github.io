@@ -3,7 +3,7 @@ import Header from "../components/header/Header";
 import Greeting from "./greeting/Greeting";
 import Skills from "./skills/Skills";
 import Projects from "./projects/Projects";
-import StartupProject from "./startupProjects/StartupProject";
+import StartupProject from "./StartupProjects/StartupProject";
 import Achievement from "./achievement/Achievement";
 import Blogs from "./blogs/Blogs";
 import Contact from "./contact/Contact";

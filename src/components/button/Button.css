@@ -1,0 +1,22 @@
+.main-button {
+  background-color: #55198b;
+  color: white;
+  width: fit-content;
+  padding: 15px 20px;
+  margin-right: 50px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  margin-top: 20px;
+  font-size: 19px;
+  cursor: pointer;
+}
+/* Media Query */
+@media (max-width: 768px) {
+  .main-button {
+    font-size: 15px;
+    padding: 12px 18px;
+    margin-right: 0px;
+  }
+}

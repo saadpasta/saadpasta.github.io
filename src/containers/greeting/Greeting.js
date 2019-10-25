@@ -1,6 +1,7 @@
 import React from "react";
 import "./Greeting.css";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
+import Button from "../../components/button/Button";
 
 export default function Greeting() {
   return (
@@ -14,6 +15,10 @@ export default function Greeting() {
               other cool libraries and frameworks .
             </p>
             <SocialMedia />
+            <div className="button-greeting-div">
+              <Button text="CONTACT ME" />
+              <Button text="SEE MY RESUME" />
+            </div>
           </div>
         </div>
         <div className="greeting-image-div">
