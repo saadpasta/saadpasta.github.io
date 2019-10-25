@@ -1,7 +1,7 @@
 .main-button {
   background-color: #55198b;
   color: white;
-  width: fit-content;
+  width: max-content;
   padding: 15px 20px;
   margin-right: 50px;
   border-radius: 10px;
