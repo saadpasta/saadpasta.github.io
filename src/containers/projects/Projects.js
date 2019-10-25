@@ -17,7 +17,7 @@ export default function Projects() {
       request: operation => {
         operation.setContext({
           headers: {
-            authorization: "Bearer 52c204e0a99a1f6c99e2f1b19a1a56bc8a6796b7"
+            authorization: `Bearer ${atob("ODM5ODY0MWRmYzUxOTcyZTdhMWMxM2NmZGIwNWU4Yzc3NmI5NTg0ZQ==")}`
           }
         });
       }
