@@ -16,8 +16,8 @@ export default function Greeting() {
             </p>
             <SocialMedia />
             <div className="button-greeting-div">
-              <Button text="Contact me" />
-              <Button text="See my resume" />
+              <Button text="Contact me" href="#contact" />
+              <Button text="See my resume" newTab={true} href="https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing" />
             </div>
           </div>
         </div>
