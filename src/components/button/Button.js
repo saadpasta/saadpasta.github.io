@@ -1,9 +1,9 @@
 import React from "react";
 import './Button.css'
 
-export default function Button({text}) {
+export default function Button({text,className}) {
   return (
-    <div>
+    <div className={className}>
       <a class="main-button">{text}</a>
     </div>
   );

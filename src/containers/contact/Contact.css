@@ -17,7 +17,7 @@
 
 .contact-text-div {
   text-align: center;
-  margin-top: 4rem
+  margin-top: 4rem;
 }
 
 .contact-margin-top {
@@ -34,5 +34,9 @@
     font-size: 16px;
     line-height: normal;
     text-align: center;
+  }
+  .contact-detail,
+  .contact-detail-email {
+    font-size: 20px;
   }
 }

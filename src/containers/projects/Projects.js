@@ -3,6 +3,7 @@ import ApolloClient from "apollo-boost";
 import { gql } from "apollo-boost";
 import "./Project.css";
 import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
+import Button from "../../components/button/Button";
 
 export default function Projects() {
   const [repo, setrepo] = useState([]);
@@ -71,6 +72,7 @@ export default function Projects() {
           return <GithubRepoCard repo={v} key={v.node.id} />;
         })}
       </div>
+      <Button text={"More Projects"} className="project-button" />
     </div>
   );
 }
