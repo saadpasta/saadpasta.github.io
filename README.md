@@ -1,7 +1,7 @@
 # Saad Pasta Portfolio For Every Developer 🖥 
 
-### Portfolio built on React using Hooks
+ Portfolio built on React using Hooks
 
-### Using GraphQl Apollo Client.
+ Using GraphQl Apollo Client.
 
-### Change Config.js to your need
+ Change Config.js to your need
