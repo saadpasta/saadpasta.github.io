@@ -13,4 +13,5 @@ code {
 html,
 body {
   font: 19px / 23px Avenir, "Avenir Next", sans-serif;
+  scroll-behavior: smooth;
 }

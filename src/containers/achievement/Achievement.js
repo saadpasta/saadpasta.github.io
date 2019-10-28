@@ -8,7 +8,7 @@ export default function Achievement() {
     win.focus();
   }
   return (
-    <div className="main">
+    <div className="main" id="achievements">
       <div className="achievement-main-div">
         <div className="achievement-header">
           <h1 className="heading achievement-heading">Achievements And Certifications 🏆</h1>

@@ -14,19 +14,22 @@ function Header() {
         </label>
         <ul className="menu">
           <li>
-            <a href="#work">Work</a>
+            <a href="#skills">Skills</a>
           </li>
           <li>
-            <a href="#about">Projects</a>
+            <a href="#projects">Projects</a>
           </li>
           <li>
-            <a href="#careers">Open Source</a>
+            <a href="#opensource">Open Source</a>
           </li>
           <li>
-            <a href="#contact">Blogs</a>
+            <a href="#blogs">Blogs</a>
           </li>
           <li>
-            <a href="#contact">Hire Me</a>
+            <a href="#achievements">Achievements</a>
+          </li>
+          <li>
+            <a href="#contact">Contact Me</a>
           </li>
         </ul>
       </header>

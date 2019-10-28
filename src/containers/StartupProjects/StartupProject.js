@@ -8,7 +8,7 @@ export default function StartupProject() {
   }
 
   return (
-    <div className="main">
+    <div className="main" id="projects">
       <div>
         <h1 className="skills-heading">Big Projects</h1>
         <p className="subTitle project-subtitle">SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH.</p>

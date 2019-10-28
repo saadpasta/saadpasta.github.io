@@ -4,7 +4,7 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 
 export default function Contact() {
   return (
-    <div className="main contact-margin-top">
+    <div className="main contact-margin-top" id="contact">
       <div className="contact-div-main">
         <div className="contact-header">
           <h1 className="heading contact-title">Contact Me ☎️</h1>

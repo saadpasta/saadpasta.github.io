@@ -4,7 +4,7 @@ import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
 
 export default function Skills() {
   return (
-    <div className="main">
+    <div className="main" id="skills">
       <div className="skills-main-div">
         <div className="skills-image-div">
           <img alt="Saad Working" src={require("../../assests/images/developerActivity.svg")}></img>

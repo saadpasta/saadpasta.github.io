@@ -5,7 +5,7 @@ import Button from "../../components/button/Button";
 
 export default function Greeting() {
   return (
-    <div className="gretting-main">
+    <div className="gretting-main" id="greeting">
       <div className="greeting-main">
         <div className="greeting-text-div">
           <div>
