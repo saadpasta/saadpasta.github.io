@@ -13,6 +13,9 @@
   overflow: hidden;
   background-color: #fff;
 }
+.grey-color {
+  color: #868e96;
+}
 
 .header li a {
   display: block;
