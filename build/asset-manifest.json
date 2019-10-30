@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.1964a170.chunk.css",
-    "main.js": "/static/js/main.41638da9.chunk.js",
-    "main.js.map": "/static/js/main.41638da9.chunk.js.map",
+    "main.css": "/static/css/main.3535607a.chunk.css",
+    "main.js": "/static/js/main.0936e1fa.chunk.js",
+    "main.js.map": "/static/js/main.0936e1fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b79f7dce.js",
     "runtime-main.js.map": "/static/js/runtime-main.b79f7dce.js.map",
-    "static/js/2.c9a519b8.chunk.js": "/static/js/2.c9a519b8.chunk.js",
-    "static/js/2.c9a519b8.chunk.js.map": "/static/js/2.c9a519b8.chunk.js.map",
+    "static/js/2.4c09cefe.chunk.js": "/static/js/2.4c09cefe.chunk.js",
+    "static/js/2.4c09cefe.chunk.js.map": "/static/js/2.4c09cefe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.35a4cef4cd8f291e3916835b45ce0ab9.js": "/precache-manifest.35a4cef4cd8f291e3916835b45ce0ab9.js",
+    "precache-manifest.87dc6201a01c588b133b10ec9ffd0420.js": "/precache-manifest.87dc6201a01c588b133b10ec9ffd0420.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.1964a170.chunk.css.map": "/static/css/main.1964a170.chunk.css.map",
+    "static/css/main.3535607a.chunk.css.map": "/static/css/main.3535607a.chunk.css.map",
+    "static/media/codeInLogo.png": "/static/media/codeInLogo.b3685be8.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
+    "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
-    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg"
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
+    "static/media/pwa.png": "/static/media/pwa.bd5f4148.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b79f7dce.js",
-    "static/js/2.c9a519b8.chunk.js",
-    "static/css/main.1964a170.chunk.css",
-    "static/js/main.41638da9.chunk.js"
+    "static/js/2.4c09cefe.chunk.js",
+    "static/css/main.3535607a.chunk.css",
+    "static/js/main.0936e1fa.chunk.js"
   ]
 }
