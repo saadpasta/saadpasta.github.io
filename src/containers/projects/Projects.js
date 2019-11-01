@@ -18,7 +18,7 @@ export default function Projects() {
       request: operation => {
         operation.setContext({
           headers: {
-            authorization: `Bearer ${atob("your coverted Github Token")}`
+            authorization: `Bearer ${atob("ODM5ODY0MWRmYzUxOTcyZTdhMWMxM2NmZGIwNWU4Yzc3NmI5NTg0ZQ==")}`
           }
         });
       }
