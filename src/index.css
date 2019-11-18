@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Agustina Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Agustina Regular'), url('./assests/fonts/Agustina.woff') format('woff');
+}
 body {
   margin: 0;
   font: 19px / 23px Avenir, "Avenir Next", sans-serif;
@@ -14,4 +20,13 @@ html,
 body {
   font: 19px / 23px Avenir, "Avenir Next", sans-serif;
   scroll-behavior: smooth;
+}
+
+/* Media Query */
+@media (max-width: 1380px) {
+  html,
+  body {
+    font-size: 16px;
+    line-height: normal;
+  }
 }

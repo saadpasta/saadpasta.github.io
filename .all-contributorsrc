@@ -1,0 +1,36 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "saadpasta",
+      "name": "Saad Pasta",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/23307811?v=4",
+      "profile": "http://saadpasta.github.io",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "9inpachi",
+      "name": "Fawad Ali",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/36920441?v=4",
+      "profile": "http://facebook.com/9inpachi",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "developerFolio",
+  "projectOwner": "saadpasta",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
