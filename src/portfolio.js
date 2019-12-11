@@ -24,7 +24,8 @@ const skillsSection = {
   skills: [
     "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
     "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
-    "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+    "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
+    "⚡ Integration and UI testing using Selenium"
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon */
