@@ -1,5 +1,6 @@
 import React from "react";
 import "./Header.css";
+import GithubForkBanner from "../githubForkBanner/GithubForkBanner"
 
 function Header() {
   return (
@@ -38,6 +39,7 @@ function Header() {
           </li>
         </ul>
       </header>
+      <GithubForkBanner/>
     </div>
   );
 }
