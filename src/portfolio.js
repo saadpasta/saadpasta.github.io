@@ -4,7 +4,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all 👋 I'm Saad",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications. A Teen in love ❤️ with open-source, giving talks and writing blogs. Maybe a Future Google GDE or Intern 😅",
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -19,13 +19,13 @@ const socialMediaLinks = {
 
 const skillsSection = {
   /* Your Skills Section  */
-  title: "What i do",
+  title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
   skills: [
     "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
     "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
     "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
-    "⚡ Integration and UI testing using Selenium"
+    "⚡ Integration and Automation testing using Selenium"
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon */
@@ -174,7 +174,7 @@ const blogSection = {
 
 const talkSection = {
   title: "TALKS",
-  subtitle: "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅",
+  subtitle: "I LOVE TO SHARE MY KNOWLEDGE AND GET A SPEAKER BADGE 😅",
 
   talks: [
     {
@@ -182,6 +182,14 @@ const talkSection = {
       subtitle: "Codelab at GDG DevFest Karachi 2019",
       slides_url: "https://bit.ly/saadpasta-slides",
       event_url: "https://www.facebook.com/events/2339906106275053/",
+      image:
+        "https://scontent.fkhi6-1.fna.fbcdn.net/v/t1.0-9/76714032_1730516240415559_1293494289556307968_o.jpg?_nc_cat=103&_nc_ohc=s5f81rdZd6wAQmqUa52YQBA21MjVOy7e-HN9jI7MspRDC-v5ahEouyInQ&_nc_ht=scontent.fkhi6-1.fna&oh=c29141a9a0de7ff2011a8191f5475a78&oe=5E83127C"
+    },
+    {
+      title: "Google Assistant Action Workshop",
+      subtitle: "Workshop at TechFest'20 UIT 2019",
+      slides_url: "https://bit.ly/saadpasta-slides",
+      event_url: "https://www.facebook.com/IeeeUitStudentBranch/photos/a.819811311507340/1489681834520281/?type=3&theater",
       image:
         "https://scontent.fkhi6-1.fna.fbcdn.net/v/t1.0-9/76714032_1730516240415559_1293494289556307968_o.jpg?_nc_cat=103&_nc_ohc=s5f81rdZd6wAQmqUa52YQBA21MjVOy7e-HN9jI7MspRDC-v5ahEouyInQ&_nc_ht=scontent.fkhi6-1.fna&oh=c29141a9a0de7ff2011a8191f5475a78&oe=5E83127C"
     }
