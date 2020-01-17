@@ -4,7 +4,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all 👋 I'm Saad",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications. A Teen in love ❤️ with open-source, giving talks and writing blogs. Maybe a Future Google GDE or Intern 😅",
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications. First Pakistani Google Code-in Finalist 🇵🇰 and A Teen in love ❤️ with open-source, giving talks and writing blogs. Maybe a Future Google GDE or Intern 😅",
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
