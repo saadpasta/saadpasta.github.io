@@ -37,22 +37,32 @@
       ]
     },
     {
-      "login": "kartikch918",
-      "name": "Kartik Choudhary",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/48270786?v=4",
-      "profile": "https://github.com/kartikch918",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
       "login": "kartik918",
       "name": "Kartik Choudhary",
       "avatar_url": "https://avatars1.githubusercontent.com/u/48270786?v=4",
       "profile": "https://github.com/kartik918",
       "contributions": [
+        "code",
         "design",
         "ideas"
+      ]
+    },
+    {
+      "login": "brianteeman",
+      "name": "Brian Teeman",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1296369?v=4",
+      "profile": "https://brian.teeman.net",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rajkumaar23",
+      "name": "Rajkumar S",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37476886?v=4",
+      "profile": "https://rajkumaar.co.in",
+      "contributions": [
+        "code"
       ]
     }
   ],
