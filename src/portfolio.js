@@ -4,7 +4,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all 👋 I'm Saad",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications. First Pakistani Google Code-in Finalist 🇵🇰 and A Teen in love ❤️ with open-source, giving talks and writing blogs. Maybe a Future Google GDE or Intern 😅",
+    "First Pakistani Google Code-In Finalist 🇵🇰 | Jr Software Developer 👾 | Open Source Contributor 🔥 | Speaker 🎙 | Tech Writer ✍️ | Maybe A Future Google GDE Or Intern 😂",
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -105,7 +105,7 @@ const bigProjects = {
       link: "http://saayahealth.com/"
     },
     {
-      image: "http://nextu.se/wp-content/themes/nextu/images/og_img.jpg",
+      image: "https://drive.google.com/uc?id=1MXoXcQRK-pH8J82wyjCW4SJk5AxJe7tf",
       link: "http://nextu.se/"
     }
   ]
