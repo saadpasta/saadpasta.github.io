@@ -4,7 +4,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all I'm Saad",
   subTitle:
-    "First Pakistani Google Code-In Finalist 🇵🇰 | Jr Software Developer 👾 | Open Source Contributor 🔥 | Speaker 🎙 | Tech Writer ✍️ | Maybe A Future Google GDE Or Intern 😂",
+    "First Pakistani Google Code-In Finalist 🇵🇰 | Jr Software Developer 👾 | Open Source Contributor 🔥 | Speaker 🎙 | Tech Writer ✍️ | Maybe A Future Google GDE Or Intern",
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -25,7 +25,8 @@ const skillsSection = {
     "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
     "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
     "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
-    "⚡ Integration and Automation testing using Selenium"
+    "⚡ Integration and Automation testing using Selenium",
+    "⚡ Creating application backend in Node, Express & Flask"
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon */
