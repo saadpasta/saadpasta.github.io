@@ -1,5 +1,6 @@
 .contact-div-main {
-    display: flex;
+    /* display: flex; */
+    text-align: center;
 }
 
 .contact-div-main > * {
@@ -14,7 +15,7 @@
 .contact-detail,
 .contact-detail-email {
     margin-top: 20px;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 400;
     color: #868e96;
     text-decoration: none;
