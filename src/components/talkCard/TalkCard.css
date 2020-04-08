@@ -70,6 +70,10 @@
     font-size: 14px;
     cursor: pointer;
   }
+
+  .talk-button:hover{
+    background-color: #AAA6FF;
+  }
   .card-footer-button-div{
     display: flex;
     justify-content: space-around;
