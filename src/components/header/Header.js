@@ -1,9 +1,11 @@
 import React from "react";
 import "./Header.css";
 import GithubForkBanner from "../githubForkBanner/GithubForkBanner"
+import {Fade} from "react-reveal";
 
 function Header() {
   return (
+    <Fade top duration={1000} distance="20px">
     <div>
       <header className="header">
         <a href="" className="logo">
@@ -41,6 +43,7 @@ function Header() {
       </header>
       <GithubForkBanner/>
     </div>
+    </Fade>
   );
 }
 export default Header;

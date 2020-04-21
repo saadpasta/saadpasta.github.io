@@ -1,15 +1,21 @@
-/* Change this file to get your personal Porfolio */
+﻿
+/* Change this file to get your personal Portfolio */
+
+// Your Summary And Greeting Section
+
+import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all I'm Saad",
-  subTitle:
-    "First Pakistani Google Code-In Finalist 🇵🇰 | Jr Software Developer 👾 | Open Source Contributor 🔥 | Speaker 🎙 | Tech Writer ✍️ | Maybe A Future Google GDE Or Intern",
+  subTitle: emoji("A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks"),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
+// Your Social Media Link
+
 const socialMediaLinks = {
-  /* Your Social Media Link */
+
   github: "https://github.com/saadpasta",
   linkedin: "https://www.linkedin.com/in/saadpasta/",
   gmail: "saadpasta70@gmail.com",
@@ -17,20 +23,19 @@ const socialMediaLinks = {
   facebook: "https://www.facebook.com/saad.pasta7"
 };
 
+// Your Skills Section
+
 const skillsSection = {
-  /* Your Skills Section  */
-  title: "What I do",
+  title: "What i do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
   skills: [
-    "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
-    "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
-    "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
-    "⚡ Integration and Automation testing using Selenium",
-    "⚡ Creating application backend in Node, Express & Flask"
+    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
+    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
   ],
 
-  /* Make Sure You include correct Font Awesome Classname to view your icon */
-  /* https://fontawesome.com/icons?d=gallery */
+/* Make Sure You include correct Font Awesome Classname to view your icon
+https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
@@ -96,8 +101,10 @@ const openSource = {
   githubUserName: "saadpasta"
 };
 
+
+// Some Big Projects You have worked with your company
+
 const bigProjects = {
-  /* Some Big Projects You have worked with your company */
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
   projects: [
@@ -108,10 +115,11 @@ const bigProjects = {
   ]
 };
 
-const achievementSection = {
-  /* Your Achievement Section Include Your Certification Talks and More */
+// Your Achievement Section Include Your Certification Talks and More
 
-  title: "Achievements And Certifications 🏆 ",
+const achievementSection = {
+
+  title: emoji("Achievements And Certifications 🏆 "),
   subtitle: "Achievements, Certifications Award Letters and Some Cool Stuff that i have done !",
 
   achivementsCards: [
@@ -145,8 +153,9 @@ const achievementSection = {
   ]
 };
 
+// Blogs Section
+
 const blogSection = {
-  /* Blogs Section */
 
   title: "Blogs",
   subtitle: "With Love for Developing cool stuff. i love to write and teach others what i have learned",
@@ -154,13 +163,11 @@ const blogSection = {
   blogs: [
     {
       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      image: "https://miro.medium.com/max/400/1*pYHONrA_3QM4dgtBSKrYWQ.jpeg",
       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
       description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min."
     },
     {
       url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      image: "https://miro.medium.com/max/1280/1*o08b2PW-1PVs94riZuhNMA.png",
       title: "Why REACT Is The Best?",
       description: "React is a JavaScript library for building the user interface. It is maintained by Facebook and a community of individual developers and companies."
     }
@@ -171,7 +178,7 @@ const blogSection = {
 
 const talkSection = {
   title: "TALKS",
-  subtitle: "I LOVE TO SHARE MY KNOWLEDGE AND GET A SPEAKER BADGE 😅",
+  subtitle: emoji("I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"),
 
   talks: [
     {
@@ -194,8 +201,9 @@ const talkSection = {
 };
 
 // Podcast Section
+
 const podcastSection = {
-  title: "Podcast 🎙️",
+  title: emoji("Podcast 🎙️"),
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
@@ -203,10 +211,17 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: "Contact Me ☎️",
+  title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi my inbox is open for all",
   number: "+92-3243454077",
   email_address: "saadpasta70@gmail.com"
 };
 
-export { greeting, socialMediaLinks, skillsSection, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo };
+//Twitter Section
+
+const twitterDetails = {
+
+  userName : "twitter"//Replace "twitter" with your twitter username without @
+  
+};
+export { greeting, socialMediaLinks, skillsSection, techStack, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
