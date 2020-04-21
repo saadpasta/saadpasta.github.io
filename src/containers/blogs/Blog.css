@@ -29,6 +29,7 @@
 }
 .blog-main-div {
   display: flex;
+  margin-top: 40px;
 }
 .blog-image-div > img {
   max-width: 100%;

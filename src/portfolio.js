@@ -8,7 +8,7 @@ import emoji from "react-easy-emoji";
 const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all I'm Saad",
-  subTitle: emoji("A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks"),
+  subTitle: emoji("First Pakistani Google Code-In Finalist 🇵🇰 | Jr Software Developer 👾 | Open Source Contributor 🔥 | Speaker 🎙 | Tech Writer ✍️ | Maybe A Future Google GDE Or Intern"),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -26,12 +26,14 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
+    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"),
+    emoji("⚡ Integration and Automation testing using Selenium"),
+    emoji("⚡ Creating application backend in Node, Express & Flask")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -221,7 +223,11 @@ const contactInfo = {
 
 const twitterDetails = {
 
-  userName : "twitter"//Replace "twitter" with your twitter username without @
+  userName : ""//Replace "twitter" with your twitter username without @
   
 };
+
+const techStack = {
+
+}
 export { greeting, socialMediaLinks, skillsSection, techStack, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
