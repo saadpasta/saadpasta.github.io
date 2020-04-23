@@ -17,7 +17,7 @@ import Twitter from "./twitter-embed/twitter";
 export default class Main extends Component {
   render() {
     return (
-      <div>
+      <div className="root-container">
         <Header />
         <Greeting />
         <Skills />

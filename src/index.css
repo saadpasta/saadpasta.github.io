@@ -30,3 +30,9 @@ body {
     line-height: normal;
   }
 }
+
+@media(max-width:520){
+  .root-container{
+    padding: 0px;
+  }
+}
