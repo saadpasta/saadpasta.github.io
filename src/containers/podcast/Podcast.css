@@ -15,6 +15,11 @@
   gap: 1rem 1rem;
   margin-top: 40px;
 }
+@media (max-width: 1380px) {
+  .podcast-header-title{
+    font-size: 40px;
+  }
+}
 @media (max-width: 768px) {
   .podcast-header-title {
     font-size: 30px;

@@ -81,6 +81,9 @@
 
   /* Media Query */
   @media (max-width: 1380px) {
+    .talk-header-title{
+      font-size: 40px;
+    }
     .card-title {
       font-size: 25px;
     }
