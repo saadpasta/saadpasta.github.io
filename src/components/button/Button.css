@@ -1,6 +1,6 @@
 .main-button {
   background-color: #55198b;
-  border: solid 1px #55198b;
+  border: solid 2px #55198b;
   color: white;
   font-weight: 700;
   width: max-content;
@@ -13,13 +13,41 @@
   display: block;
   margin-top: 20px;
   font-size: 16px;
+  transition: all 0.3s ease-in-out 0s;
   cursor: pointer;
 }
 .main-button:hover {
-  background-color: #ffffff;
-  color: black;
-  transition: ease-in 0.3s;
+  background-color:  transparent;
+  color: #55198b;
+  transition: all 0.3s ease 0s;
+  transform: translateY(-3px);
 }
+
+.main-button-transparent {
+  /* background-color: #55198b; */
+  border: solid 2px #55198b;
+  color: #55198b;
+  font-weight: 700;
+  width: max-content;
+  padding: 13px 22px;
+  margin-right: 50px;
+  text-transform: uppercase;
+  border-radius: 6px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  margin-top: 20px;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out 0s;
+  cursor: pointer;
+}
+.main-button-transparent:hover {
+  background-color:  #55198b;
+  color: white;
+  transition: all 0.3s ease 0s;
+  transform: translateY(-3px);
+}
+
 .project-button{
   display: flex;
   justify-content: center;
