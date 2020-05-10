@@ -99,8 +99,9 @@ const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
   /* To know how to get github key look at readme.md */
   
-  githubConvertedToken: "ODM5ODY0MWRmYzUxOTcyZTdhMWMxM2NmZGIwNWU4Yzc3NmI5NTg0ZQ==",
-  githubUserName: "saadpasta"
+  githubConvertedToken: "YjdjZWVlMmZhYjU2YWE3YTJjZmY5MmQzMzQ1NmZkN2I4OGY5YjUxZQ==",
+  githubUserName: "saadpasta",
+  showGithubProfile:"true",
 };
 
 
@@ -139,7 +140,7 @@ const achievementSection = {
     {
       title: "Google Assistant Action",
       subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png",
+      image: "https://storage.googleapis.com/xebia-blog/1/2018/10/Google_Assistant_logo.png",
       footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
     },
 
