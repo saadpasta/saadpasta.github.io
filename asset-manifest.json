@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7834424.chunk.css",
-    "main.js": "/static/js/main.349d06ff.chunk.js",
-    "main.js.map": "/static/js/main.349d06ff.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b79f7dce.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b79f7dce.js.map",
-    "static/js/2.2f837ff5.chunk.js": "/static/js/2.2f837ff5.chunk.js",
-    "static/js/2.2f837ff5.chunk.js.map": "/static/js/2.2f837ff5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5b9c48c2d4b8f878a9c21e69956fff9f.js": "/precache-manifest.5b9c48c2d4b8f878a9c21e69956fff9f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b7834424.chunk.css.map": "/static/css/main.b7834424.chunk.css.map",
-    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
-    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
-    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
-    "static/media/skill.svg": "/static/media/skill.34409398.svg",
-    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg"
+    "main.css": "saadpasta.github.io/static/css/main.9bd38284.chunk.css",
+    "main.js": "saadpasta.github.io/static/js/main.ad77873f.chunk.js",
+    "main.js.map": "saadpasta.github.io/static/js/main.ad77873f.chunk.js.map",
+    "runtime-main.js": "saadpasta.github.io/static/js/runtime-main.0feed3ad.js",
+    "runtime-main.js.map": "saadpasta.github.io/static/js/runtime-main.0feed3ad.js.map",
+    "static/js/2.2ffc5790.chunk.js": "saadpasta.github.io/static/js/2.2ffc5790.chunk.js",
+    "static/js/2.2ffc5790.chunk.js.map": "saadpasta.github.io/static/js/2.2ffc5790.chunk.js.map",
+    "index.html": "saadpasta.github.io/index.html",
+    "precache-manifest.a2567a523294d9e8455d308296218fd4.js": "saadpasta.github.io/precache-manifest.a2567a523294d9e8455d308296218fd4.js",
+    "service-worker.js": "saadpasta.github.io/service-worker.js",
+    "static/css/main.9bd38284.chunk.css.map": "saadpasta.github.io/static/css/main.9bd38284.chunk.css.map",
+    "static/media/index.css": "saadpasta.github.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/developerActivity.svg": "saadpasta.github.io/static/media/developerActivity.59389695.svg",
+    "static/media/all.css": "saadpasta.github.io/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/manOnTable.svg": "saadpasta.github.io/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "saadpasta.github.io/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "saadpasta.github.io/static/media/talksCardBack.0288c5ec.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b79f7dce.js",
-    "static/js/2.2f837ff5.chunk.js",
-    "static/css/main.b7834424.chunk.css",
-    "static/js/main.349d06ff.chunk.js"
+    "static/js/runtime-main.0feed3ad.js",
+    "static/js/2.2ffc5790.chunk.js",
+    "static/css/main.9bd38284.chunk.css",
+    "static/js/main.ad77873f.chunk.js"
   ]
 }
