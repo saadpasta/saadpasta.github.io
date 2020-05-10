@@ -119,6 +119,42 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "joshiujjawal22",
+      "name": "UJJAWAL JOSHI",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/44023234?v=4",
+      "profile": "https://sourcerer.io/joshiujjawal22",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "palak-sethi",
+      "name": "Palak Sethi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/51605219?v=4",
+      "profile": "https://github.com/palak-sethi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "viniciusbds",
+      "name": "Vinicius Barbosa",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/34755896?v=4",
+      "profile": "https://viniciusbds.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "BharatKammakatla",
+      "name": "Bharat Kammakatla",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/28840761?v=4",
+      "profile": "https://bharatkammakatla.github.io",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
