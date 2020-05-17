@@ -2,6 +2,7 @@ import React from "react";
 import "./Header.css";
 import GithubForkBanner from "../githubForkBanner/GithubForkBanner"
 import {Fade} from "react-reveal";
+import {greeting} from "../../portfolio";
 
 function Header() {
   return (
@@ -10,7 +11,7 @@ function Header() {
       <header className="header">
         <a href="" className="logo">
           <span className="grey-color"> &lt;</span>
-          <span className="logo-name">Saad Pasta</span>
+          <span className="logo-name">{greeting.username}</span>
           <span className="grey-color">/&gt;</span>
         </a>
         <input className="menu-btn" type="checkbox" id="menu-btn" />
