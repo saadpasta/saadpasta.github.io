@@ -7,6 +7,7 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
+  username : "Saad Pasta",
   title: "Hi all I'm Saad",
   subTitle: emoji("First Pakistani Google Code-In Finalist 🇵🇰 | Jr Software Developer 👾 | Open Source Contributor 🔥 | Speaker 🎙 | Tech Writer ✍️ | Maybe A Future Google GDE Or Intern"),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
