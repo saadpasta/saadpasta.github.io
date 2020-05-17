@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "saadpasta.github.io/static/css/main.9bd38284.chunk.css",
-    "main.js": "saadpasta.github.io/static/js/main.ad77873f.chunk.js",
-    "main.js.map": "saadpasta.github.io/static/js/main.ad77873f.chunk.js.map",
+    "main.css": "saadpasta.github.io/static/css/main.0cd0ea38.chunk.css",
+    "main.js": "saadpasta.github.io/static/js/main.4a23ad60.chunk.js",
+    "main.js.map": "saadpasta.github.io/static/js/main.4a23ad60.chunk.js.map",
     "runtime-main.js": "saadpasta.github.io/static/js/runtime-main.0feed3ad.js",
     "runtime-main.js.map": "saadpasta.github.io/static/js/runtime-main.0feed3ad.js.map",
-    "static/js/2.2ffc5790.chunk.js": "saadpasta.github.io/static/js/2.2ffc5790.chunk.js",
-    "static/js/2.2ffc5790.chunk.js.map": "saadpasta.github.io/static/js/2.2ffc5790.chunk.js.map",
+    "static/js/2.f1b4fed0.chunk.js": "saadpasta.github.io/static/js/2.f1b4fed0.chunk.js",
+    "static/js/2.f1b4fed0.chunk.js.map": "saadpasta.github.io/static/js/2.f1b4fed0.chunk.js.map",
     "index.html": "saadpasta.github.io/index.html",
-    "precache-manifest.a2567a523294d9e8455d308296218fd4.js": "saadpasta.github.io/precache-manifest.a2567a523294d9e8455d308296218fd4.js",
+    "precache-manifest.2fdd6aafd1f59248e29b197f73b61cba.js": "saadpasta.github.io/precache-manifest.2fdd6aafd1f59248e29b197f73b61cba.js",
     "service-worker.js": "saadpasta.github.io/service-worker.js",
-    "static/css/main.9bd38284.chunk.css.map": "saadpasta.github.io/static/css/main.9bd38284.chunk.css.map",
+    "static/css/main.0cd0ea38.chunk.css.map": "saadpasta.github.io/static/css/main.0cd0ea38.chunk.css.map",
     "static/media/index.css": "saadpasta.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/developerActivity.svg": "saadpasta.github.io/static/media/developerActivity.59389695.svg",
-    "static/media/all.css": "saadpasta.github.io/static/media/fa-solid-900.c2801fb4.svg",
     "static/media/manOnTable.svg": "saadpasta.github.io/static/media/manOnTable.52be3144.svg",
     "static/media/skill.svg": "saadpasta.github.io/static/media/skill.34409398.svg",
     "static/media/TalkCard.css": "saadpasta.github.io/static/media/talksCardBack.0288c5ec.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0feed3ad.js",
-    "static/js/2.2ffc5790.chunk.js",
-    "static/css/main.9bd38284.chunk.css",
-    "static/js/main.ad77873f.chunk.js"
+    "static/js/2.f1b4fed0.chunk.js",
+    "static/css/main.0cd0ea38.chunk.css",
+    "static/js/main.4a23ad60.chunk.js"
   ]
 }
