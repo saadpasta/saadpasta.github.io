@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7f684f5.chunk.css",
-    "main.js": "/static/js/main.251b56f4.chunk.js",
-    "main.js.map": "/static/js/main.251b56f4.chunk.js.map",
+    "main.css": "/static/css/main.8acfbac6.chunk.css",
+    "main.js": "/static/js/main.23d2cba7.chunk.js",
+    "main.js.map": "/static/js/main.23d2cba7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b79f7dce.js",
     "runtime-main.js.map": "/static/js/runtime-main.b79f7dce.js.map",
-    "static/js/2.f1b4fed0.chunk.js": "/static/js/2.f1b4fed0.chunk.js",
-    "static/js/2.f1b4fed0.chunk.js.map": "/static/js/2.f1b4fed0.chunk.js.map",
+    "static/js/2.94c71842.chunk.js": "/static/js/2.94c71842.chunk.js",
+    "static/js/2.94c71842.chunk.js.map": "/static/js/2.94c71842.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ae1a9d1733cc89b8a72825befb4037af.js": "/precache-manifest.ae1a9d1733cc89b8a72825befb4037af.js",
+    "precache-manifest.155cfe0b190f5944d74f3e901b4a849f.js": "/precache-manifest.155cfe0b190f5944d74f3e901b4a849f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c7f684f5.chunk.css.map": "/static/css/main.c7f684f5.chunk.css.map",
+    "static/css/main.8acfbac6.chunk.css.map": "/static/css/main.8acfbac6.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/airbnbLogo.jpg": "/static/media/airbnbLogo.e47c3e26.jpg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
@@ -19,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b79f7dce.js",
-    "static/js/2.f1b4fed0.chunk.js",
-    "static/css/main.c7f684f5.chunk.css",
-    "static/js/main.251b56f4.chunk.js"
+    "static/js/2.94c71842.chunk.js",
+    "static/css/main.8acfbac6.chunk.css",
+    "static/js/main.23d2cba7.chunk.js"
   ]
 }

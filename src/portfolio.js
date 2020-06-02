@@ -101,7 +101,7 @@ const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
   /* To know how to get github key look at readme.md */
   
-  githubConvertedToken: "YjdjZWVlMmZhYjU2YWE3YTJjZmY5MmQzMzQ1NmZkN2I4OGY5YjUxZQ==",
+  githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
   githubUserName: "saadpasta",
   showGithubProfile:"true",
 }
