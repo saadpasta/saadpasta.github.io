@@ -107,57 +107,57 @@ const openSource = {
 }
   // Your top 3 proficient stacks/tech experience
 
-// const techStack = {
-//   viewSkillBars: true, //Set it to true to show Proficiency Section
-//   experience: [
-//     {
-//       Stack: "Frontend/Design",  //Insert stack or technology you have experience in
-//       progressPercentage: "90%"  //Insert relative proficiency in percentage
-//     },
-//     {
-//       Stack: "Backend",
-//       progressPercentage: "70%"
-//     },
-//     {
-//       Stack: "Programming",
-//       progressPercentage: "60%"
-//     }
-//   ]
-// };
+const techStack = {
+  viewSkillBars: false, //Set it to true to show Proficiency Section
+  experience: [
+    {
+      Stack: "Frontend/Design",  //Insert stack or technology you have experience in
+      progressPercentage: "90%"  //Insert relative proficiency in percentage
+    },
+    {
+      Stack: "Backend",
+      progressPercentage: "70%"
+    },
+    {
+      Stack: "Programming",
+      progressPercentage: "60%"
+    }
+  ]
+};
 
 
 // // Your top 3 work experiences
 
-// const workExperiences = {
-//   viewExperiences: true, //Set it to true to show workExperiences Section
-//   experience: [
-//     {
-//       role: "Software Engineer",  
-//       company: "Facebook",
-//       companylogo: require("./assets/images/facebookLogo.png"),
-//       date: "June 2018 – Present",
-//       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-//       descBullets: [
-//         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-//         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-//       ]
-//     },
-//     {
-//       role: "Front-End Developer",   
-//       company: "Quora",
-//       companylogo: require("./assets/images/quoraLogo.png"),
-//       date: "May 2017 – May 2018",
-//       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-//     },
-//     {
-//       role: "Software Engineer Intern",  
-//       company: "Airbnb",
-//       companylogo: require("./assets/images/airbnbLogo.jpg"),
-//       date: "Jan 2015 – Sep 2015",
-//       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-//     },
-//   ]
-// };
+const workExperiences = {
+  viewExperiences: false, //Set it to true to show workExperiences Section
+  experience: [
+    {
+      role: "Software Engineer",  
+      company: "Facebook",
+      companylogo: require("./assets/images/facebookLogo.png"),
+      date: "June 2018 – Present",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      descBullets: [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      ]
+    },
+    {
+      role: "Front-End Developer",   
+      company: "Quora",
+      companylogo: require("./assets/images/quoraLogo.png"),
+      date: "May 2017 – May 2018",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      role: "Software Engineer Intern",  
+      company: "Airbnb",
+      companylogo: require("./assets/images/airbnbLogo.jpg"),
+      date: "Jan 2015 – Sep 2015",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+  ]
+};
 
 
 // Some Big Projects You have worked with your company
