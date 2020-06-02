@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "21554a1facfcf73cdc03bcd2b5fe6249",
+    "revision": "bab6dc9e07bf175f12227b1e2abf0812",
     "url": "/index.html"
   },
   {
-    "revision": "7b52dec8263fdfd18968",
-    "url": "/static/css/main.c7f684f5.chunk.css"
+    "revision": "84e4cde22d2497799d1a",
+    "url": "/static/css/main.8acfbac6.chunk.css"
   },
   {
-    "revision": "89c6a3c411b4c2982bd2",
-    "url": "/static/js/2.f1b4fed0.chunk.js"
+    "revision": "49e96fb4047798a1c7b6",
+    "url": "/static/js/2.94c71842.chunk.js"
   },
   {
-    "revision": "7b52dec8263fdfd18968",
-    "url": "/static/js/main.251b56f4.chunk.js"
+    "revision": "84e4cde22d2497799d1a",
+    "url": "/static/js/main.a97baf22.chunk.js"
   },
   {
     "revision": "9e0dbbbecde63d8dbba4",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "e47c3e26372c670c4a4eeac6eea0bf98",
+    "url": "/static/media/airbnbLogo.e47c3e26.jpg"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
