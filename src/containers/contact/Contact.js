@@ -22,6 +22,9 @@ export default function Contact() {
                         <SocialMedia/>
                     </div>
                 </div>
+                <div className="contact-image-div">
+                    <img alt="Saad Working" src={require("../../assets/images/contactMail.webp")}></img>
+                </div>
             </div>
         </div>
         </Fade>
