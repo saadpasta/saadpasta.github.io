@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30adccbe6f3794d3b8545941b9693c56",
+    "revision": "d47ebbfd1e4fab42012fc82a256284ef",
     "url": "/index.html"
   },
   {
-    "revision": "6f720daccb8da4821708",
+    "revision": "8345dd404fb76af9dc4e",
     "url": "/static/css/3.70d62d19.chunk.css"
   },
   {
-    "revision": "8bd76e49c15fcec8ee04",
+    "revision": "d27c53e88f05f9828f96",
     "url": "/static/css/4.06bd2a3c.chunk.css"
   },
   {
-    "revision": "f8b00a89560c9be471e3",
-    "url": "/static/css/main.1464990d.chunk.css"
+    "revision": "d72655e860efe485b35f",
+    "url": "/static/css/main.3722d7cf.chunk.css"
   },
   {
-    "revision": "8baae3469a08655c6925",
-    "url": "/static/js/2.d6503168.chunk.js"
+    "revision": "3149e9d9657821d72184",
+    "url": "/static/js/2.ee08903f.chunk.js"
   },
   {
-    "revision": "6f720daccb8da4821708",
-    "url": "/static/js/3.b33e8794.chunk.js"
+    "revision": "8345dd404fb76af9dc4e",
+    "url": "/static/js/3.d5c6510a.chunk.js"
   },
   {
-    "revision": "8bd76e49c15fcec8ee04",
-    "url": "/static/js/4.3f0d8c95.chunk.js"
+    "revision": "d27c53e88f05f9828f96",
+    "url": "/static/js/4.259a4dd9.chunk.js"
   },
   {
-    "revision": "f8b00a89560c9be471e3",
-    "url": "/static/js/main.9e36fd6d.chunk.js"
+    "revision": "d72655e860efe485b35f",
+    "url": "/static/js/main.54a0e7ec.chunk.js"
   },
   {
-    "revision": "12ae3cb89ec4654364ce",
-    "url": "/static/js/runtime-main.d690f4c6.js"
+    "revision": "34a4769457fe6d382b00",
+    "url": "/static/js/runtime-main.96e5c01f.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "829ad0a1deef4d7295adfecdf12df2be",
+    "url": "/static/media/nextuLogo.829ad0a1.webp"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
